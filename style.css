@@ -19,7 +19,7 @@ body {
     flex-direction: column;
 }  
 
-.w3-spin {
+.main {
     width: 400px;
     height: 300px;
     background-color: royalblue;
