@@ -53,3 +53,15 @@ body {
     width: 100%;
 }
 
+#purple {
+    background-color: purple;
+    color: white;
+}
+#red {
+    background-color: red;
+    color: white;
+}
+#pink {
+    background-color: magenta;
+    color: white;
+}
